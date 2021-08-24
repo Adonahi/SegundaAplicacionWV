@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecondAplicacion</string>
+    <string name="txtv_titulo">Welcome to WebView</string>
+    <string name="txtv_aviso">TAP AN URL PLEASE.</string>
+</resources>
