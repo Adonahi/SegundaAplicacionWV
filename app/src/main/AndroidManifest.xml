@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SegundaAplicacion">
         <activity
+            android:name=".InformacionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".EvaluacionActivity"
+            android:exported="true" />
+        <activity
             android:name=".PaginaWebActivity"
             android:exported="true" />
         <activity
@@ -23,6 +29,6 @@
         </activity>
     </application>
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
 </manifest>
